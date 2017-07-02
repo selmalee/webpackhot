@@ -4,6 +4,9 @@
 npm install
 
 # 启动热更新，浏览器中打开localhost:2000
+npm run dev
+
+# 打包到build/
 npm run build
 
 # 现在修改src/源文件就实现热更新的功能了
