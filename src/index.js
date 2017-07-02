@@ -1,2 +1,2 @@
-const s = 'hello333';
+const s = 'hello';
 document.write(s);
