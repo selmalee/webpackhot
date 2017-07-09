@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --devtool eval --progress --colors --hot --content-base build",
-    "build": "webpack"
+    "dist": "webpack"
   },
   "dependencies": {
     "jquery": "^3.2.1"
