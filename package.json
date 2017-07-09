@@ -5,8 +5,8 @@
   "author": "seminelee <747191197@qq.com>",
   "private": true,
   "scripts": {
-    "dev": "webpack-dev-server --devtool eval --progress --colors --hot --content-base build",
-    "dist": "webpack"
+    "dev": "webpack-dev-server --devtool eval --progress --colors --hot --content-base dist",
+    "build": "webpack"
   },
   "dependencies": {
     "jquery": "^3.2.1"
