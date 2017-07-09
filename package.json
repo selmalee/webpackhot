@@ -1,8 +1,8 @@
 {
-  "name": "threedemo",
+  "name": "webpackhot",
   "version": "1.0.0",
-  "description": "a demo for three.js",
-  "author": "seminelee <747191197@qq.com>",
+  "description": "",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --devtool eval --progress --colors --hot --content-base dist",
